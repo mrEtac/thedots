@@ -1,1 +1,1 @@
-# thedots
+https://cdn.discordapp.com/attachments/1092743119080001566/1224306056562479134/2024-04-01-063413_hyprshot.png?ex=661d02de&is=660a8dde&hm=11f512722fd7bffeaef5f791333cc9c01bcea6565c52fa7b8fa81680b373e9b2& # thedots
