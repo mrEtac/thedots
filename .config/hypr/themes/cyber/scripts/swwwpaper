@@ -1,10 +1,10 @@
 #! /bin/bash
 
-SWWW_TRANSITION=random
+SWWW_TRANSITION=wipe
 export stills="$1"
 
 wallpaper () {
-    for monitor in "${monitors[@]}"; do swww img --transition-type random --outputs $monitor "$(randstill)"; done
+    for monitor in "${monitors[@]}"; do swww img --transition-type wipe --outputs $monitor "$(randstill)"; done
   }
 
 #Function to select a random file from $stills directory
@@ -32,7 +32,7 @@ swww kill
 swww init
 
 # Picks background wallpaper
-swww img $wall
+swww img --transition-type wipe $wall
 
 
 # generate color scheme
