@@ -1,6 +1,6 @@
 * {
     border: none;
-    font-family: Font Awesome, Roboto, Arial, sans-serif;
+    font-family: Font Awesome, Roboto, Arial, sans-serif, nerd-font;
     font-size: 13px;
     color: #ffffff;
     border-radius: 20px;
@@ -56,14 +56,29 @@ window#waybar {
 #tray,
 #mode,
 #custom-power,
+#custom-media,
 #custom-menu,
+#custom-wallpaperchanger,
 #idle_inhibitor {
     padding: 0 10px;
 }
 #mode {
     color: #cc3436;
     font-weight: bold;
+
 }
+#custom-media {
+	margin-top: 6px;
+	margin-left: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	transition: none;
+	color: #161320;
+	background: #F2CDCD;
+}
+
 #custom-power {
     background-color: rgba(0,119,179,0.6);
     border-radius: 100px;
