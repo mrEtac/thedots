@@ -15,7 +15,10 @@ Depos/Stuffed used :3
 - [Dracula](https://draculatheme.com/hyprland)
 - [Cyber-Theme](https://github.com/taylor85345/cyber-hyprland-theme)
 - [cava](https://github.com/karlstav/cava)
+- [chafa](https://hpjansson.org/chafa/) - terminal img preview
+- [btop](https://github.com/aristocratos/btop)
+- [Chatterino](https://github.com/SevenTV/chatterino7/releases) - shoutout chatterino cause they the best
 
   *WIP* if I missed anything sorry 0_0
 
- ![Testing](https://github.com/mrEtac/thedots/blob/main/screenshot/2024-04-01-063413_hyprshot.png)
+ ![if u dont wanna click the link](https://github.com/mrEtac/thedots/blob/main/screenshot/2024-04-01-063413_hyprshot.png)
