@@ -12,3 +12,5 @@ Depos/Stuffed used :3
 - [socat](http://www.dest-unreach.org/socat/)
 
   *WIP*
+
+ ![Testing](https://raw.githubusercontent.com/mrEtac/thedots/main/screenshot/2024-04-01-063413_hyprshot.png?token=GHSAT0AAAAAACQKUUFHEAKU75NSOVRF2NU4ZQNJGVQ)
