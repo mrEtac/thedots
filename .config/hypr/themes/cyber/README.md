@@ -1,6 +1,6 @@
 # cyber-hyprland-theme 
 
-#catErm Edit :3  `I DO NOT USE THE THEME I SIMPLY USE THE WALLPAPER SCRIPT THAT IS PROVIDED WITH THE GIT` link to the theme's [git-hub](https://github.com/taylor85345/cyber-hyprland-theme)
+catErm Edit :3  `I DO NOT USE THE THEME I SIMPLY USE THE WALLPAPER SCRIPT THAT IS PROVIDED WITH THE GIT` link to the theme's [git-hub](https://github.com/taylor85345/cyber-hyprland-theme)
 
 ## Dependencies
 
