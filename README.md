@@ -18,7 +18,8 @@ Depos/Stuffed used :3
 - [chafa](https://hpjansson.org/chafa/) - terminal img preview
 - [btop](https://github.com/aristocratos/btop)
 - [Chatterino](https://github.com/SevenTV/chatterino7/releases) - shoutout chatterino cause they the best
+- [spicetify](https://github.com/spicetify/spicetify-cli) - spotify CLI themer for linux
 
-  *WIP* if I missed anything sorry 0_0
+  *WIP* If I missed anything sorry 0_0 *Some stuff has changed from the SC that I currently use but generally its still the same config*
 
  ![if u dont wanna click the link](https://github.com/mrEtac/thedots/blob/main/screenshot/2024-04-01-063413_hyprshot.png)
