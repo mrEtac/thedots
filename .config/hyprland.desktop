@@ -4,4 +4,4 @@ Comment=An intelligent dynamic tiling Wayland compositor
 Exec=env WLR_NO_HARDWARE_CURSORS=1 Hyprland
 Type=Application
 
-#Remove this line: Hyprland NVIDIA mouse disapperaing fix 
+#Remove this line: Hyprland NVIDIA mouse disapperaing fix :3
