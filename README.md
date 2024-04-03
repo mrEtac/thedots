@@ -10,7 +10,9 @@ Depos/Stuffed used :3
 - [rofi-wayland](https://github.com/lbonn/rofi)
 - [eww](https://github.com/elkowar/eww)
 - [socat](http://www.dest-unreach.org/socat/)
+- [Dracula](https://draculatheme.com/hyprland)
+- [Cyber-Theme](https://github.com/taylor85345/cyber-hyprland-theme)
 
-  *WIP*
+  *WIP* if I missed anything sorry 0_0
 
  ![Testing](https://github.com/mrEtac/thedots/blob/main/screenshot/2024-04-01-063413_hyprshot.png)
