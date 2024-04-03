@@ -1,9 +1,12 @@
-# cyber-hyprland-theme
+# cyber-hyprland-theme 
 
 ## Screenshot
 
 ![20221201124048_1](https://user-images.githubusercontent.com/36456160/205144772-bc832650-15e6-4304-9c65-fe7ce7f73e83.png)
 
+
+
+#catErm Edit :3  `I DO NOT USE THE THEME I SIMPLY USE THE WALLPAPER SCRIPT THAT IS PROVIDED WITH THE GIT` link to the theme's [git-hub](https://github.com/taylor85345/cyber-hyprland-theme)
 
 ## Installation
 For complete system config, please see https://github.com/taylor85345/hyprland-dotfiles
