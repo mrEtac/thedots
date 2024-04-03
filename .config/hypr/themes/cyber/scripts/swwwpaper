@@ -26,7 +26,23 @@ wptoggle () {
   }
 
 #perform cleanup and exit
-trap 'pkill swww & exit' exit 1 3 15
+wall=$(find ~/.config/hypr/themes/cyber/wallpaper/ -type f -name "*.jpg" -o -name "*.png" -o -name "*.gif" | shuf -n 1)
 
+swww kill
 swww init
-wptoggle
+
+# Picks background wallpaper
+swww img $wall
+
+
+# generate color scheme
+wal -c
+wal -i $wall
+
+
+# Enable this (by removing the # next to pywalfox update) if you use firefox AND downloaded the pywalfox extension and installed repository.
+ pywalfox update
+
+
+# Deletes the sww cache
+rm -rf $HOME/.cache/swww
