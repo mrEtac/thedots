@@ -13,4 +13,4 @@ Depos/Stuffed used :3
 
   *WIP*
 
- ![Testing](https://raw.githubusercontent.com/mrEtac/thedots/main/screenshot/2024-04-01-063413_hyprshot.png)
+ ![Testing](https://github.com/mrEtac/thedots/blob/main/screenshot/2024-04-01-063413_hyprshot.png)
