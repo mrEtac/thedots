@@ -2,7 +2,7 @@
 
 catErm Edit :3  `I DO NOT USE THE THEME I SIMPLY USE THE WALLPAPER SCRIPT THAT IS PROVIDED WITH THE GIT` link to the theme's [git-hub](https://github.com/taylor85345/cyber-hyprland-theme)
 
-I did make an edit to make the wallpaper script work a little better was having som weird bugs tbh prob didnt change much under `swwwpaper`
+I did make an edit to make the wallpaper script work a little better was having some weird bugs tbh prob didnt change much but fixed my issues under `swwwpaper`
 
 ## Dependencies
 
