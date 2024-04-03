@@ -1,6 +1,6 @@
 {
     "modules-left": ["hyprland/workspaces", "hyprland/mode"],
-    "modules-center": ["clock", "idle_inhibitor"],
+    "modules-center": ["clock", "custom/wallpaper-changer", "idle_inhibitor"],
     /* "modules-right": ["tray", "custom/scratchpad-indicator", "pulseaudio", "custom/power"], */
     "modules-right": ["tray", "custom/scratchpad-indicator", "pulseaudio", "custom/power"],
 
@@ -9,7 +9,7 @@
     },
     "network": {
         "format-wifi": "{essid} ({signalStrength}%) ",
-        "format-ethernet": "{ifname} ",
+        "format-ethernet": "{enp34s0} ",
         "format-disconnected": "", 
         "max-length": 50,
         "on-click": "kitty -e 'nmtui'"
@@ -61,8 +61,12 @@
         "exec-if": "exit 0",
         "on-click": "swaymsg 'scratchpad show'",
         "on-click-right": "swaymsg 'move scratchpad'"
-    }
+    },
+    "custom/wallpaper-changer": {
+    "format": "󱄄 {icon}",
+    "icon-size": 12,
+    "tooltip-format": "{}",
+    "exec": "~/Coding/scripts/wallpaperchanger",
+    "on-click": "exec ~/Coding/scripts/wallpaperchanger"
+    },
 }
-	"hyprland/window": {
-    		"on-click": "activate"
-  		},
