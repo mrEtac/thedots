@@ -17,6 +17,7 @@ Depos/Stuffed used :3
 - [cava](https://github.com/karlstav/cava)
 - [chafa](https://hpjansson.org/chafa/) - terminal img preview
 - [btop](https://github.com/aristocratos/btop)
+- [pywal](https://github.com/dylanaraps/pywal)
 - [Chatterino](https://github.com/SevenTV/chatterino7/releases) - shoutout chatterino cause they the best
 - [spicetify](https://github.com/spicetify/spicetify-cli) - spotify CLI themer for linux
 
