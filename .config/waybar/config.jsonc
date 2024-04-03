@@ -9,7 +9,7 @@
     },
     "network": {
         "format-wifi": "{essid} ({signalStrength}%) ",
-        "format-ethernet": "{enp34s0} ",
+        "format-ethernet": "{wlan0} ",
         "format-disconnected": "", 
         "max-length": 50,
         "on-click": "kitty -e 'nmtui'"
