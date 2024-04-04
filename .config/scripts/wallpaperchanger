@@ -11,7 +11,7 @@ swww kill
 swww init
 
 # Picks background wallpaper
-swww img --transition-type wipe $wall
+swww img --transition-type wipe $wall #if wallpaper changes to grey/black just edit out the transition
 
 
 # generate color scheme
