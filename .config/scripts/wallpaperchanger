@@ -20,7 +20,7 @@ wal -i $wall
 
 
 # Enable this (by removing the # next to pywalfox update) if you use firefox AND downloaded the pywalfox extension and installed repository.
-# pywalfox update
+pywalfox update
 
 
 # Deletes the sww cache
