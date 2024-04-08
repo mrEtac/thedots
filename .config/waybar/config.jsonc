@@ -9,7 +9,7 @@
     },
     "network": {
         "format-wifi": "{essid} ({signalStrength}%) ",
-        "format-ethernet": "{wlan0} ",
+        "format-ethernet": "{enp34s0} ",
         "format-disconnected": "", 
         "max-length": 50,
         "on-click": "kitty -e 'nmtui'"
@@ -66,7 +66,7 @@
     "format": "󱄄 {icon}",
     "icon-size": 12,
     "tooltip-format": "{}",
+    "on-click": "exec ~/Coding/scripts/wallpaperchanger",
     "exec": "~/Coding/scripts/wallpaperchanger",
-    "on-click": "exec ~/Coding/scripts/wallpaperchanger"
     },
 }
