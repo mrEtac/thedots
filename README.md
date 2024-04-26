@@ -26,5 +26,7 @@ Depos/Stuffed used :3
 
 
 `Updated Screenshots`
+
 ![cause links are scawy](https://github.com/mrEtac/thedots/blob/main/screenshot/2024-04-26-065111_hyprshot.png)
 ![cause links are scawy2](https://github.com/mrEtac/thedots/blob/main/screenshot/2024-04-26-070731_hyprshot.png)
+![blahblah](https://github.com/mrEtac/thedots/blob/main/screenshot/2024-04-26-142942_hyprshot.png)
