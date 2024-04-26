@@ -24,3 +24,8 @@ Depos/Stuffed used :3
   *WIP* If I missed anything sorry 0_0 *Some stuff has changed from the SC that I currently use but generally its still the same config*
 
  ![if u dont wanna click the link](https://github.com/mrEtac/thedots/blob/main/screenshot/2024-04-01-063413_hyprshot.png)
+
+
+`Updated Screenshots`
+![cause links are scawy](https://github.com/mrEtac/thedots/blob/main/screenshot/2024-04-26-065111_hyprshot.png)
+![cause links are scawy2](https://github.com/mrEtac/thedots/blob/main/screenshot/2024-04-26-070731_hyprshot.png)
