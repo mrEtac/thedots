@@ -11,13 +11,14 @@ Depos/Stuffed used :3
 - [rofi-wayland](https://github.com/lbonn/rofi)
 - [socat](http://www.dest-unreach.org/socat/)
 - [Dracula](https://draculatheme.com/hyprland)
-- [Cyber-Theme](https://github.com/taylor85345/cyber-hyprland-theme)
+- [Cyber-Theme](https://github.com/taylor85345/cyber-hyprland-theme) - tbh i dont think i use any thing from this anymore but ill keep it :3
 - [cava](https://github.com/karlstav/cava)
 - [chafa](https://hpjansson.org/chafa/) - terminal img preview
 - [btop](https://github.com/aristocratos/btop)
 - [pywal](https://github.com/dylanaraps/pywal)
 - [Chatterino](https://github.com/SevenTV/chatterino7/releases) - shoutout chatterino cause they the best
 - [spicetify](https://github.com/spicetify/spicetify-cli) - spotify CLI themer for linux
+- [wpaperd](https://github.com/danyspin97/wpaperd) - wallpaper daemon for hyprland
 
   *WIP* If I missed anything sorry 0_0 *Some stuff has changed from the SC that I currently use but generally its still the same config*
 
