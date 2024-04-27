@@ -1,11 +1,11 @@
-[Desktop](https://femboy.beauty/CvRJe) # The dots what do they mean
+[Desktop](https://femboy.beauty/hmBeE) # The dots what do they mean
 
 
 Arch btw 0w0
 
 Depos/Stuffed used :3
 - [waybar](https://github.com/Alexays/Waybar)
-- `Xfce Terminal`
+- [kitty](https://sw.kovidgoyal.net/kitty/)
 - [hyprland](https://github.com/hyprwm/Hyprland)
 - [geticons](https://git.sr.ht/~zethra/geticons)
 - [rofi-wayland](https://github.com/lbonn/rofi)
@@ -19,9 +19,13 @@ Depos/Stuffed used :3
 - [Chatterino](https://github.com/SevenTV/chatterino7/releases) - shoutout chatterino cause they the best
 - [spicetify](https://github.com/spicetify/spicetify-cli) - spotify CLI themer for linux
 - [wpaperd](https://github.com/danyspin97/wpaperd) - wallpaper daemon for hyprland
+- [neovim](https://neovim.io/) - used NvChad config for themer and plugins
+- [catnip](https://github.com/sweetbbak/catnip) - CLI image viewer/picker
 
   *WIP* If I missed anything sorry 0_0 *Some stuff has changed from the SC that I currently use but generally its still the same config*
 
+ `Super Old SC`
+ 
  ![if u dont wanna click the link](https://github.com/mrEtac/thedots/blob/main/screenshot/2024-04-01-063413_hyprshot.png)
 
 
