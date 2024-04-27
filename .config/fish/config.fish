@@ -7,3 +7,6 @@ end
 if [ -f $HOME/.config/fish/alias.fish ]
 source $HOME/.config/fish/alias.fish
 end
+
+# Created by `pipx` on 2024-04-27 19:36:23
+set PATH $PATH /home/caterm/.local/bin
